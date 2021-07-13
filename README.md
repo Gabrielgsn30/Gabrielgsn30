@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 
-**Gabrielgsn30/Gabrielgsn30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Algumas informações sobre mim:**
 
 - :briefcase: Atualmente, estou trabalhando na Medsystem / SV como DevOps Júnior.
-- 🌱 I’m currently learning ...
+- :mortarboard: Sou graduado em Ciência da Computação pela PUC Minas Poços de Caldas.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
