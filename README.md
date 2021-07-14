@@ -6,3 +6,4 @@
 - :man_technologist: Meu foco de estudos são temas como DevOps, .NET Core 5 utilizando webapi e Vue.js para o front.
 - :building_construction: Repositorios em contrução: [Dotnet5](https://github.com/Gabrielgsn30/Dotnet5) [FrontVue](https://github.com/Gabrielgsn30/FrontVue)  [cursoactions](https://github.com/Gabrielgsn30/cursoactions)
 
+- :email: Contatos: [Linkedin](www.linkedin.com/in/gabriel-silva-nascimento-466aa7b0)
